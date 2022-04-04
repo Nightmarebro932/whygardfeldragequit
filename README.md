@@ -1,5 +1,5 @@
 # What is this?
-This is a website where you must guess why gardfeld rage quit! (https://nightmarebro932.github.io/whygardfeldquit
+This is a website where you must guess why gardfeld rage quit! (https://nightmarebro932.github.io/whygardfeldquit)
 # Roadmap
 I made the original code on a chromebook in school so of course I want to add more
 - I want it to be like an actual test but I'd need to git gud so don't get your hopes up
